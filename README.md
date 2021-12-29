@@ -1,5 +1,5 @@
 # Battleship
-Api for random battleship game between 2 players
+Api for random battleship game between 2 players (using DDD, EF Core, Autofac, AutoMapper)
 
 Api settings:
 url: https://localhost:7176 (you can change it in Battleship/Battleship.Api/Properties/launchSettings.json, section "applicationUrl")
